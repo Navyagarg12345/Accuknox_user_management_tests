@@ -20,7 +20,7 @@
 2. In command prompt: 
 create and activate a virtual environment:
 python -m venv venv
-# On Windows: venv\Scripts\activate
+On Windows: venv\Scripts\activate
 3. Install dependencies:
 pip install -r requirements.txt
 playwright install
